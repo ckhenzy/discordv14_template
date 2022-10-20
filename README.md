@@ -1,5 +1,5 @@
-# discordv14_template
-Discord Bot Template v14 with MySql, Typeorm, some basic eslint and prettier
+# DISCORD BOT V14
+Discord Bot Template v14 with Database integration.
 
 **Packages**
 `discord.js`
