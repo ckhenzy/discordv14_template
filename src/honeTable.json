@@ -1,0 +1,97 @@
+{
+    "weapon0_10": {
+        "honorShards": 100,
+        "destructionStones": 700,
+        "gold": 50,
+        "silver": 40000,
+        "leapstones": 1,
+        "chance": 0.2,
+        "matBonus": 0.05
+        
+    },
+    "weapon11_20": {
+        "honorShards": 1200,
+        "destructionStones": 6400,
+        "gold": 600,
+        "silver": 80000,
+        "leapstones": 10,
+        "chance": 0.1,
+        "matBonus": 0.1
+        
+    },
+    "weapon21_30": {
+        "honorShards": 3360,
+        "destructionStones": 17920,
+        "gold": 1680,
+        "silver": 224000,
+        "leapstones": 20,
+        "chance": 0.05,
+        "matBonus": 0.2
+        
+    },
+    "weapon31_40": {
+        "honorShards": 8736,
+        "destructionStones": 46592,
+        "gold": 4368,
+        "silver": 582400,
+        "leapstones": 40,
+        "chance": 0.02,
+        "matBonus": 0.3
+        
+    },
+    "weapon41_50": {
+        "honorShards": 79495,
+        "destructionStones": 423986,
+        "gold": 39746,
+        "silver": 5299840,
+        "leapstones": 120,
+        "chance": 0.05,
+        "matBonus": 0.5
+    },
+
+    "armor0_10": {
+        "honorShards": 700,
+        "guardianStones": 4900,
+        "gold": 35,
+        "silver": 14000,
+        "leapstones": 1,
+        "chance": 0.2,
+        "matBonus": 0.05
+    },
+    "armor11_20": {
+        "honorShards": 1400,
+        "guardianStones": 9800,
+        "gold": 50,
+        "silver": 40000,
+        "leapstones": 3,
+        "chance": 0.1,
+        "matBonus": 0.1
+    },
+    "armor21_30": {
+        "honorShards": 8400,
+        "guardianStones": 44800,
+        "gold": 600,
+        "silver": 56000,
+        "leapstones": 10,
+        "chance": 0.05,
+        "matBonus": 0.2
+    },
+    "armor31_40": {
+        "honorShards": 12400,
+        "guardianStones": 147840,
+        "gold": 1176,
+        "silver": 156800,
+        "leapstones": 20,
+        "chance": 0.02,
+        "matBonus": 0.3
+    },
+    "armor41_50": {
+        "honorShards": 61150,
+        "guardianStones": 212850,
+        "gold": 3057,
+        "silver": 407680,
+        "leapstones": 40,
+        "chance": 0.1,
+        "matBonus": 0.8
+    }
+}

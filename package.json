@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format:write": "prettier --write \"**/*.js\"",
+    "format:check": "prettier --check \"**/*.js\"",
+    "lint": "eslint .",
+    "start": "node deploy-commands.js && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "mysql2": "^2.3.3",
+    "prettier": "^2.7.1",
+    "typeorm": "^0.3.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
